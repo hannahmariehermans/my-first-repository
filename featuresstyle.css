@@ -1,0 +1,18 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	background-color:#000d29;
+}
+
+
+p{
+    color:pink;
+}
+
+h1{
+    color:blueviolet
+}
+h2{
+    color:red;
+}
